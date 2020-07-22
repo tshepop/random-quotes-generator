@@ -1,8 +1,15 @@
-blockquote {
-	border: 1px solid black;
-  padding: 20px;
-  box-shadow: 
-       inset 0 -3em 3em rgba(0,0,0,0.1), 
-             0 0  0 2px rgb(255,255,255),
-             0.3em 0.3em 1em rgba(0,0,0,0.3);
+
+#container {
+	border: 0.1px solid black;
+	width: 50em;
+	height: 20em;
+	padding: 0.5em;
+	/*margin: 1.5em auto;*/
+	margin: 0 auto;
 }
+
+blockquote {
+  padding: 50px;
+  box-shadow: inset 0 -3em 3em rgba(0,0,0,0.1),0 0 0 2px rgb(255,255,255),0.3em 0.3em 1em rgba(0,0,0,0.3);
+}
+
