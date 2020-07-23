@@ -19,3 +19,17 @@ blockquote {
 	text-align: center;
 	margin: 2px 0;
 }
+
+hr {
+	margin: 0 auto;
+	margin-top: 40px;
+	width: 80%;
+	border: 0;
+	height: 1px;
+	box-shadow: 0.3em 0.3em 1em 0.2em rgba(0,0,0,0.3);
+}
+
+#button-container {
+	text-align: center;
+}
+
