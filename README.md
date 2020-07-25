@@ -1,4 +1,6 @@
+<p align="center">
 # Random-quotes-generator
+</p>
 
 ![](images/random-quotes.png)
 
