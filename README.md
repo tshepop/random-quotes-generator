@@ -1,6 +1,6 @@
-<p align="center">
-# Random-quotes-generator
-</p>
+<h1 align="center">
+ Random-quotes-generator
+</h1>
 
 ![](images/random-quotes.png)
 
